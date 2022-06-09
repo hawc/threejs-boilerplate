@@ -1,5 +1,5 @@
-import Main from './js/main'
-// import Main from './js/main2'
+//import Main from './js/main'
+import Main from './js/main2'
 // import Main from './js/mainVR'
 // import Main from './js/postpo_sandbox'
 // import Main from './js/postpo_ascii'
